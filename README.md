@@ -159,8 +159,7 @@
 
 <p align=right>(<a href=#Updated-on-20231125>back to top</a>)</p>
 
+## Acknowledgments
 
-        ## Acknowledgments
-
-        Thank you very much for the inspiration and help provided by [Dengyu-Wu](https://github.com/Dengyu-Wu/neuromorphics-daily-arxiv). Based on this, I have transitioned to this repo.
+Thank you very much for the inspiration and help provided by [Dengyu-Wu](https://github.com/Dengyu-Wu/neuromorphics-daily-arxiv). Based on this, I have transitioned to this repo.
         
